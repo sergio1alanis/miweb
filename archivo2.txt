@@ -3,4 +3,5 @@ je tre bien,  e tua!!
 tercera liinea para utlizar commit alternaativo
 agragando mas cambios para
 alternativa elegante y rapida de
-git status
+git statu
+Canmbios en la nueva ramab
